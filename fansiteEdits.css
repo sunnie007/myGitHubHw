@@ -1,0 +1,74 @@
+#welcome{
+    display: inline-block;
+    font-size: 48px;
+    color: rgb(88, 196, 234);
+    justify-content: space-around;
+  }
+  a:link, a:visited {
+  background-color: rgb(88, 196, 234);
+  color: rgb(31, 7, 7);
+  text-align: center;
+  text-decoration: none;
+  padding: 4px;
+  width: fit-content;
+  }
+  a:hover, a:active {
+  background-color: rgba(212, 117, 181, 0.897);
+  }
+  #rock {
+    background-position: relative;
+    background-image: url(https://miro.medium.com/max/2560/1*GVEn2GnkTxkkkmJ5xjPZCg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  body.container {
+    display: flex;
+    flex-wrap: wrap;
+    /* background-color: #EEEEEE; */
+    font-size: 16px;
+    /* width: fit-content; */
+    flex-direction:column;
+    justify-content: center;
+    padding: 1rem;
+  }
+  h1 {
+  font-family: 'Dancing script', cursive;
+  color: rgb(88, 196, 234);
+  }
+  .font {
+    color: rgb(235, 132, 221);
+    display: flex;
+    flex-flow: row wrap;
+    text-shadow: black;
+    align-items:flex-start;
+  }
+  h2 {
+    font-size: 25px;
+   }
+    .container {
+     display: flex;
+     flex-direction:column;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin: 0 auto;
+     padding: 1rem;
+   } 
+  #par {
+    text-align: center;
+    display: flex;
+  }
+  #par1 {
+    text-align: center;
+    display: flex;
+  }
+  #par2 {
+    text-align: center;
+    display: flex;
+  }
+  .vid {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+  }

@@ -1,0 +1,2 @@
+## This is a fansite for those who are are as obsessed as I am with Dwayne Johnson. 
+##### A short summary view on some of this magnificent human being accomplishments. Along with some *motivational* content that showcases The Rocks core values. 
